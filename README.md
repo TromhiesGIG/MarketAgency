@@ -1,13 +1,4 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/innohub)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/innohub?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/innohub?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/QAkjqXuICQE?style=social)](https://youtu.be/QAkjqXuICQE)
-
-  <br />
-  <br />
+<!-- <div align="center">
 
   <h2 align="center">InnoHub - Digital Marketing Agency Website</h2>
 
@@ -51,4 +42,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contains any license. -->
